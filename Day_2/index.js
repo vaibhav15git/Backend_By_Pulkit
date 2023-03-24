@@ -1,3 +1,4 @@
-console.log("hello world!");
-console.log("hello world!");
-console.log("hello world!");
+
+const sum = require("./data");
+
+sum(10,10)
